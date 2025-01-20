@@ -3,6 +3,8 @@ THE MURDERER'S CD
 Digital Music Pack for LeonardoTheMutant's Murder Mystery add-on
 By MinusMario (@mm8573)
 
+A remake of the "General Murder Music" pack aiming to be more compact in size
+
 MIDI tracks were digitalized with the help of LMMS and several soundfonts
 
 Tracks marked with * are digitalized MIDI tracks from the original MIDI soundtrack

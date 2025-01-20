@@ -3,7 +3,7 @@ GENERAL MURDER MUSIC
 Digital Music Pack for LeonardoTheMutant's Murder Mystery add-on
 By @LeonardoTheMutant & @Troplucky
 
-A mixture of the digitalized MIDI tracks and the original digital versions of the songs.
+A mixture of the digitalized MIDI tracks and the original digital versions of the songs in high qualtity.
 
 MIDI digitalized with "GeneralUser GS v1.471" soundfont
 
