@@ -3,9 +3,9 @@ Yamaha's Mysterious Music 2612
 Digital Music Pack for LeonardoTheMutant's Murder Mystery add-on
 By @Lamonite
 
-A collection of digitized LTM's MM MIDI tracks using FM samples from Sonic 1, 2, 3&K and 3D Blast
+A collection of some LTM Murder Mystery tracks using FM samples from Sonic 1, 2, 3&K and 3D Blast
 
-MIDI tracks were digitalized with the help of LMMS and "Sonic 1/2/3&K/3D instruments" soundfonts
+MIDI tracks were digitalized using LMMS and the ["Sonic the Hedgehog 1/2/3K and 3D Soundfont."](https://drive.google.com/drive/folders/1Ot4GDUVnpgnv5Rt9phx_HVxn3crrjRXk?usp=drive_link)
 
 ========
 = MAPS =
