@@ -22,10 +22,11 @@ Tracks marked with * are digitalized MIDI tracks from the original MIDI soundtra
 * MAPK8 - "AimShootKill" by Tom Mustaine (Final Doom: TNT Evilution)
 * MAPK9 - "Reflection" by Scragadelic (Freedoom: Phase 2 (v0.13.0))
 * MAPKA - "Bright sound" (Sonic Adventure 2)
+* MAPKB - "Havana Smooth" by Lee Jackson (Rise of the Triad)
 * MAPKE - "Theme of Tara" by Iku Mizutani (Metal Gear)
 * MAPKF - "Theme of Holly" by Kazuki Muraoka & Norihiko Hibino (Metal Gear 2: Solid Snake)
 * MAPKG - "Concept of Technology" by Korp (Freedoom: Phase 2 (v0.13.0))
-* MAPKH - "Demon Dance" by Discoholic (Freedoom: Phase 2 (v0.13.0))
+* MAPKH - "Cursed Cathedral" by RednGreen (Super Mario World Custom Music) (MIDI by ShinkoNet)
 
 MAPKC: "Stauf's Mansion"
 ------------------------
@@ -91,7 +92,7 @@ MAPKD: "East City"
   VANDOM - No defenders ending - "Vanilla Dome" by Koji Kondo (Super Mario World)
   007WTC -  Bad Sheriff ending  - "007 Watch Theme" by Grant Kirkhope (Goldeneye 007 Remastered Soundtrack)
 * 11H_IN -    Bad Hero ending   - "Dolls of Doom" by The Fat Man and Team Fat (The 11th Hour: The sequel to The 7th Guest)
-  PBW_DC - 2 player duel ending - "Driftevil City" (Pokemon Black & White)
+  PBW_DC - 2 player duel ending - "Driftveil City" (Pokemon Black & White)
 
 
 ============
