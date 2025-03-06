@@ -31,5 +31,5 @@ Each music pack folder will also contain its own README file and the list of tra
 | Name | Description | Author(s) | Folder | Size |
 | --- | --- | --- | --- | --- |
 | **General Murder Music** | A mixture of the digitalized MIDI tracks and the original digital versions of the songs in high quality. | @LeonardoTheMutant, @Troplucky | [GMM](./GMM/) | 296 MB |
-| **The Murderer's CD** | A remake of the "General Murder Music" pack aiming to be more compact in size | MinusMario (@mm8573) | [TMCD](./TMCD/) | 43.7 MB |
+| **The Murderer's CD** | A remake of the "General Murder Music" pack aiming to be more compact in size | MinusMario (@mm8573) | [TMCD](./TMCD/) | 45.6 MB |
 | **Yamaha's Mysterious Music 2612** | Digitalized MIDI soundtrack using FM samples taken from Sonic 1, 2, 3&K and 3D Blast | @Lamonite | [YMM2612](./YMM2612/) | 243 MB |

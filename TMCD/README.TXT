@@ -22,7 +22,7 @@ Tracks marked with * are digitalized MIDI tracks from the original MIDI soundtra
 * MAPK8 - "AimShootKill" by Tom Mustaine (Final Doom: TNT Evilution)
 * MAPK9 - "Reflection" by Scragadelic (Freedoom: Phase 2 (v0.13.0))
 * MAPKA - "Bright sound" (Sonic Adventure 2)
-* MAPKB - "Havana Smooth" by Lee Jackson (Rise of the Triad)
+* MAPKB - "Smoke and Mirrors" by Lee Jackson (Rise of the Triad)
 * MAPKE - "Theme of Tara" by Iku Mizutani (Metal Gear)
 * MAPKF - "Theme of Holly" by Kazuki Muraoka & Norihiko Hibino (Metal Gear 2: Solid Snake)
 * MAPKG - "Concept of Technology" by Korp (Freedoom: Phase 2 (v0.13.0))
@@ -30,7 +30,8 @@ Tracks marked with * are digitalized MIDI tracks from the original MIDI soundtra
 
 MAPKC: "Stauf's Mansion"
 ------------------------
-Original game soundtrack composed by the Fat Man and Team Fat
+Original game soundtrack from "The 11th Hour: The Sequel to The 7th Guest" and "The 7th Guest"
+Composed by the Fat Man and Team Fat
 * 11H_00 - "Hey conductor" (Foyer)
 * 11H_01 - "Pool Balls" (Library)
 * 11H_02 - "Sadness" (Music room)
@@ -45,7 +46,7 @@ Original game soundtrack composed by the Fat Man and Team Fat
 * 11H_0B - "All the guests" (Edward Knox's bedroom)
 * 11H_0C - Bathroom
 * 11H_0D - Doll room
-* 11H_0E - "Dool of Doom" (Nursery)
+  11H_0E - "Dolls of Doom" (Nursery)
 * 11H_0F - Brian Dutton's bedroom
 * 11H_10 - "Bedspread" (Martin Burden's bedroom)
 * 11H_11 - "Mirror puzzle" (Attic staircase)
@@ -68,14 +69,14 @@ MAPKD: "East City"
 = SHOWDOWN =
 ============
 
-* 11H_TR - "Train puzzle" by The Fat Man and Team Fat (The 11th Hour: The sequel to The 7th Guest)
-* DRMBM2 - "2 player VS." (Puyo Puyo, Dr. Robotnik's Mean Bean Machine)
+* 11H_TR - "Train Puzzle" by The Fat Man and Team Fat (The 11th Hour: The sequel to The 7th Guest)
+* DRMBM2 - "2 Player VS." (Puyo Puyo, Dr. Robotnik's Mean Bean Machine)
   MGS_DL - "Duel" (Metal Gear Solid)
-  PWAAPR - "Pressing Pursuit" (Phoenix Wright: Ace Attorney)
-  PWTTPR - "Pressing Pursuit" (Phoenix Wright: Trials and Tribulations)
+  PWAAPR - "Pressing Pursuit ~ Cornered" (Phoenix Wright: Ace Attorney)
+  PWTTPR - "Pressing Pursuit ~ Caught" (Phoenix Wright: Trials and Tribulations)
   RDBSTR - "Rude Buster" by Toby Fox (Deltarune)
-* S2GGBS - "Boss theme" (Sonic 2 Game Gear)
-* S2MSBS - "Boss theme" (Sonic 2 Master System)
+* S2GGBS - "Boss Theme" (Sonic 2 Game Gear)
+* S2MSBS - "Boss Theme" (Sonic 2 Master System)
   SSBLSD - "Showdown" (Sonic Spinball (Genesis))
   SSBLBS - "Boss" (Sonic Spinball (Genesis))
 * STORMR - "Stormer" by Korp, originally by Samuel "Blastfrog" Oliver (Freedoom: Phase 2 (v0.13.0))
@@ -87,12 +88,12 @@ MAPKD: "East City"
 ================
 
   NOWAY  -          Tie         - "No way!" (Sonic the Hedgehog 3 & Knuckles)
-* ULTINT -   Murderer ending    - "Doomguy and His Angry Band" by Ivan "continuum.mid" Stanton (Ultimate MIDI Pack)
-* FD2INT -   Civilian ending    - "FTW You 100" by Lola "BlueWorrior" Harvey (Freedoom: Phase 2 (v0.13.0))
-  VANDOM - No defenders ending - "Vanilla Dome" by Koji Kondo (Super Mario World)
-  007WTC -  Bad Sheriff ending  - "007 Watch Theme" by Grant Kirkhope (Goldeneye 007 Remastered Soundtrack)
-* 11H_IN -    Bad Hero ending   - "Dolls of Doom" by The Fat Man and Team Fat (The 11th Hour: The sequel to The 7th Guest)
-  PBW_DC - 2 player duel ending - "Driftveil City" (Pokemon Black & White)
+* ULTINT -   Murderer Ending    - "Doomguy and His Angry Band" by Ivan "continuum.mid" Stanton (Ultimate MIDI Pack)
+* FD2INT -   Civilian Ending    - "FTW You 100" by Lola "BlueWorrior" Harvey (Freedoom: Phase 2 (v0.13.0))
+  VANDOM - No Defenders Ending - "Vanilla Dome" by Koji Kondo (Super Mario World)
+  007WTC -  Murderous Sheriff Ending  - "007 Watch Theme" by Grant Kirkhope (Goldeneye 007 Remastered Soundtrack)
+  11H_IN -    Murderous Hero Ending   - "Dolls of Doom" by The Fat Man and Team Fat (The 11th Hour: The sequel to The 7th Guest)
+  PBW_DC - 2 Player Pong Game Ending - "Driftveil City" (Pokemon Black & White)
 
 
 ============
@@ -100,4 +101,5 @@ MAPKD: "East City"
 ============
 
 * 11H_SP - "No Hope In MY Mansion!" by MinusMario
-* SUSNCE - "Thrill Theme - "Suspense" " by Toshihiko Horiyama (Apollo Justice: Ace Attorney) (MIDI by Shadow Hog)
+* CIVINS  "Civilian's Instinct" by MinusMario
+  SUSNCE - "A Thrilling Theme ~ Suspense" by Toshihiko Horiyama (Apollo Justice: Ace Attorney)
