@@ -28,8 +28,9 @@ Each music pack folder will also contain its own README file and the list of tra
 
 # List of available Digital Music Packs
 
-| Name | Description | Author(s) | Folder | Size |
-| --- | --- | --- | --- | --- |
-| **General Murder Music** | A mixture of the digitalized MIDI tracks and the original digital versions of the songs in high quality. | @LeonardoTheMutant, @Troplucky | [GMM](./GMM/) | 296 MB |
-| **The Murderer's CD** | A remake of the "General Murder Music" pack aiming to be more compact in size | MinusMario (@mm8573) | [TMCD](./TMCD/) | 45.6 MB |
-| **Yamaha's Mysterious Music 2612** | Digitalized MIDI soundtrack using FM samples taken from Sonic 1, 2, 3&K and 3D Blast | @Lamonite | [YMM2612](./YMM2612/) | 243 MB |
+| Name | Description | Author(s) | Folder | Size | Complete? |
+| --- | --- | --- | --- | --- | --- |
+| **General Murder Music** | A mixture of the digitalized MIDI tracks and the original digital versions of the songs in high quality. | @LeonardoTheMutant, @Troplucky | [GMM](./GMM/) | 296 MB | ***Yes*** |
+| **The Murderer's CD** | A remake of the "General Murder Music" pack aiming to be more compact in size | MinusMario (@mm8573) | [TMCD](./TMCD/) | 45.6 MB | ***Yes*** |
+| **Yamaha's Mysterious Music 2612** | Digitalized MIDI soundtrack using FM samples taken from Sonic 1, 2, 3&K and 3D Blast | @Lamonite | [YMM2612](./YMM2612/) | 243 MB | Lacks the Intermission themes |
+| **Square Saw a Triangle Knife Noise** | A chiptune variation of the soundtrack based on PSG chips like NES APU, Commodore SID and others<br>**This pack is not recommended for sensitive users as it might cause headaches** | MinusMario (@mm8573), @LeonardoTheMutant | [SSATKN](./SSATKN/) | 48.8 MB | ***Yes*** |
