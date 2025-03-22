@@ -100,6 +100,6 @@ MAPKD: "East City"
 = SUSPENSE =
 ============
 
-* 11H_SP - "No Hope In MY Mansion!" by MinusMario
+* 11H_SP - "I Can't Find a [hiding] Place Without Seeing Mr. Death" by MinusMario
 * CIVINS  "Civilian's Instinct" by MinusMario
   SUSNCE - "A Thrilling Theme ~ Suspense" by Toshihiko Horiyama (Apollo Justice: Ace Attorney)
