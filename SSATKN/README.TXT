@@ -1,5 +1,7 @@
 SQUARE SAW A TRIANGLE KNIFE NOISE
 =================================
+WARNING: This pack is not recommended for sensitive users as it might cause headaches
+
 Digital Music Pack for LeonardoTheMutant's Murder Mystery add-on
 By MinusMario (@mm8573) and @LeonardoTheMutant
 
@@ -7,7 +9,7 @@ A chiptune variation of the soundtrack based on PSG chips like NES APU, Commodor
 
 MIDI tracks were digitalized with the help of LMMS and several soundfonts
 
-If you can't find a sense in the name of the pack, it doesn't - it is simply a refference
+If you can't find a sense in the name of the pack, it doesn't - it is simply a reference
 to the wave types that most PSG chips can produce
 
 ========
@@ -34,7 +36,7 @@ MAPKC: "Stauf's Mansion"
 Original game soundtrack from "The 11th Hour: The Sequel to The 7th Guest" and "The 7th Guest"
 Composed by the Fat Man and Team Fat
 
-11H_00 - "Hey conductor" (Foyer)
+11H_00 - "Hey Conductor" (Foyer)
 11H_01 - "Pool Balls" (Library)
 11H_02 - "Sadness" (Music room)
 11H_03 - Kitchen
@@ -48,7 +50,7 @@ Composed by the Fat Man and Team Fat
 11H_0B - "All the guests" (Edward Knox's bedroom)
 11H_0C - Bathroom
 11H_0D - Doll room
-11H_0E - "Dool of Doom" (Nursery)
+11H_0E - "Dolls of Doom" (Nursery)
 11H_0F - Brian Dutton's bedroom
 11H_10 - "Bedspread" (Martin Burden's bedroom)
 11H_11 - "Mirror puzzle" (Attic staircase)
@@ -93,8 +95,8 @@ NOWAY  -          Tie         - "No way!" (Sonic the Hedgehog 3 & Knuckles)
 ULTINT -   Murderer ending    - "Doomguy and His Angry Band" by Ivan "continuum.mid" Stanton (Ultimate MIDI Pack)
 FD2INT -   Civilian ending    - "FTW You 100" by Lola "BlueWorrior" Harvey (Freedoom: Phase 2 (v0.13.0))
 VANDOM - No defenders ending - "Vanilla Dome" by Koji Kondo (Super Mario World)
-007WTC -  Bad Sheriff ending  - "007 Watch Theme" by Grant Kirkhope (Goldeneye 007 Remastered Soundtrack)
-11H_IN -    Bad Hero ending   - "Dolls of Doom" by The Fat Man and Team Fat (The 11th Hour: The sequel to The 7th Guest)
+007WTC -  Murderous Sheriff ending  - "007 Watch Theme" by Grant Kirkhope (Goldeneye 007 Remastered Soundtrack)
+11H_IN -  Murderous Hero ending   - "Dolls of Doom" by The Fat Man and Team Fat (The 11th Hour: The sequel to The 7th Guest)
 PBW_DC - 2 player duel ending - "Driftveil City" (Pokemon Black & White)
 
 
@@ -102,6 +104,6 @@ PBW_DC - 2 player duel ending - "Driftveil City" (Pokemon Black & White)
 = SUSPENSE =
 ============
 
-11H_SP - "I can't find a [hiding] place without seeing Mr. Death" by MinusMario
+11H_SP - "I Can't Find a [hiding] Place Without Seeing Mr. Death" by MinusMario
 CIVINS  "Civilian's Instinct" by MinusMario
 SUSNCE - "A Thrilling Theme ~ Suspense" by Toshihiko Horiyama (Apollo Justice: Ace Attorney)
