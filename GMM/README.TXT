@@ -94,3 +94,11 @@ MAPKD: "East City"
 * MMEND3 - Murderous Sheriff Ending - "007 Watch Theme" by Grant Kirkhope (Goldeneye 007)
 * MMEND4 -  Murderous Hero Ending   - "Dolls of Doom" by The Fat Man and Team Fat (The 11th Hour: The sequel to The 7th Guest)
 * MMEND5 -   No deffenders ending   - "Vanilla Dome" by Koji Kondo (Super Mario World)
+
+============
+= SUSPENSE =
+============
+
+* 11H_SP - "I Can't Find a [hiding] Place Without Seeing Mr. Death" by MinusMario
+* CIVINS - "Civilian's Instinct" by MinusMario
+* MMSUS0 - "A Thrilling Theme ~ Suspense" by Toshihiko Horiyama (Apollo Justice: Ace Attorney)
