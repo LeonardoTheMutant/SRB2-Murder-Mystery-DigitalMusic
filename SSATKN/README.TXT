@@ -24,7 +24,6 @@ MAPK5 - "Dam" by Graeme Norgate (Goldeneye 007 Remastered Soundtrack)
 MAPK7 - "Rough Landing" by Korp, remix of dave3d08.mid by jute (Freedoom: Phase 2 (v0.13.0))
 MAPK8 - "AimShootKill" by Tom Mustaine (Final Doom: TNT Evilution)
 MAPK9 - "Reflection" by Scragadelic (Freedoom: Phase 2 (v0.13.0))
-MAPKA - "Bright sound" (Sonic Adventure 2)
 MAPKB - "Havana Smooth" by Lee Jackson (Rise of the Triad)
 MAPKE - "Theme of Tara" by Iku Mizutani (Metal Gear)
 MAPKF - "Theme of Holly" by Kazuki Muraoka & Norihiko Hibino (Metal Gear 2: Solid Snake)
@@ -74,30 +73,29 @@ Good Future - "Main Code" by Korp (Freedoom: Phase 1 (v0.13.0))
 ============
 
 11H_TR - "Train puzzle" by The Fat Man and Team Fat (The 11th Hour: The sequel to The 7th Guest)
-DRMBM2 - "2 player VS." (Puyo Puyo, Dr. Robotnik's Mean Bean Machine)
 MGS_DL - "Duel" (Metal Gear Solid)
-PWAAPR - "Pressing Pursuit" (Phoenix Wright: Ace Attorney)
-PWTTPR - "Pressing Pursuit" (Phoenix Wright: Trials and Tribulations)
-RDBSTR - "Rude Buster" by Toby Fox (Deltarune)
-S2GGBS - "Boss theme" (Sonic 2 Game Gear)
-S2MSBS - "Boss theme" (Sonic 2 Master System)
-SSBLSD - "Showdown" (Sonic Spinball (Genesis))
-SSBLBS - "Boss" (Sonic Spinball (Genesis))
-STORMR - "Stormer" by Korp, originally by Samuel "Blastfrog" Oliver (Freedoom: Phase 2 (v0.13.0))
-UNDYNE - "Battle Against a True Hero" by Toby Fox (Undertale)
+MMSHD0 - "2 player VS." (Puyo Puyo, Dr. Robotnik's Mean Bean Machine)
+MMSHD1 - "Pressing Pursuit" (Phoenix Wright: Ace Attorney)
+MMSHD2 - "Pressing Pursuit" (Phoenix Wright: Trials and Tribulations)
+MMSHD3 - "Rude Buster" by Toby Fox (Deltarune)
+MMSHD4 - "Boss theme" (Sonic 2 Game Gear)
+MMSHD5 - "Boss theme" (Sonic 2 Master System)
+MMSHD6 - "Showdown" (Sonic Spinball (Genesis))
+MMSHD7 - "Stormer" by Korp, originally by Samuel "Blastfrog" Oliver (Freedoom: Phase 2 (v0.13.0))
+MMSHD8 - "Battle Against a True Hero" by Toby Fox (Undertale)
 
 
 ================
 = INTERMISSION =
 ================
 
-NOWAY  -          Tie         - "No way!" (Sonic the Hedgehog 3 & Knuckles)
-ULTINT -   Murderer ending    - "Doomguy and His Angry Band" by Ivan "continuum.mid" Stanton (Ultimate MIDI Pack)
-FD2INT -   Civilian ending    - "FTW You 100" by Lola "BlueWorrior" Harvey (Freedoom: Phase 2 (v0.13.0))
-VANDOM - No defenders ending - "Vanilla Dome" by Koji Kondo (Super Mario World)
-007WTC -  Murderous Sheriff ending  - "007 Watch Theme" by Grant Kirkhope (Goldeneye 007 Remastered Soundtrack)
-11H_IN -  Murderous Hero ending   - "Dolls of Doom" by The Fat Man and Team Fat (The 11th Hour: The sequel to The 7th Guest)
-PBW_DC - 2 player duel ending - "Driftveil City" (Pokemon Black & White)
+MM_TIE -           Tie            - "No way!" (Sonic the Hedgehog 3 & Knuckles)
+MMEND0 -   2 player duel ending   - "Driftveil City" (Pokemon Black & White)
+MMEND1 -      Murderer ending     - "Doomguy and His Angry Band" by Ivan "continuum.mid" Stanton (Ultimate MIDI Pack)
+MMEND2 -      Civilian ending     - "FTW You 100" by Lola "BlueWorrior" Harvey (Freedoom: Phase 2 (v0.13.0))
+MMEND3 - Murderous Sheriff ending - "007 Watch Theme" by Grant Kirkhope (Goldeneye 007 Remastered Soundtrack)
+MMEND4 -  Murderous Hero ending   - "Dolls of Doom" by The Fat Man and Team Fat (The 11th Hour: The sequel to The 7th Guest)
+MMEND5 -   No defenders ending    - "Vanilla Dome" by Koji Kondo (Super Mario World)
 
 
 ============
@@ -105,5 +103,5 @@ PBW_DC - 2 player duel ending - "Driftveil City" (Pokemon Black & White)
 ============
 
 11H_SP - "I Can't Find a [hiding] Place Without Seeing Mr. Death" by MinusMario
-CIVINS  "Civilian's Instinct" by MinusMario
-SUSNCE - "A Thrilling Theme ~ Suspense" by Toshihiko Horiyama (Apollo Justice: Ace Attorney)
+CIVINS - "Civilian's Instinct" by MinusMario
+MMSUS0 - "A Thrilling Theme ~ Suspense" by Toshihiko Horiyama (Apollo Justice: Ace Attorney)
