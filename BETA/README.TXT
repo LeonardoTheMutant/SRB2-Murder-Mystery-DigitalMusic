@@ -35,12 +35,14 @@ MAPKD: "East City"
 
     MMSHDA - "Boss" by Barry Blum (Sonic Spinball (Genesis))
   # MMSHDB - "Anything But Tangerines" by Tommy Tallarico (Earthworm Jim 2 (Genesis))
-* # MMSHDC - "Duel Time" by Dr. Quack (LTM's (SRB2) Murder Mystery v7.0-BETA)
-
+  # MMSHDD - "Stage 13 (Dr. Robotnik)" by Masayuki Nagao (Dr. Robotnik's Mean Bean Machine (Genesis))
+  # MMSHDE - "Ruby Illusions" by Tee Lopes (Sonic Mania)
 
 ================
 = INTERMISSION =
 ================
 
-* # MMEND1 -     Murderer ending      - "Doomguy and His Angry Band" by Ivan "continuum.mid" Stanton (The Ultimate DOOM Ultimate MIDI pack)
-* # MMEND2 -     Civilian ending      - "FTW You 100" by Lola "BlueWorrior" Harvey (Freedoom: Phase 2 (v0.13.0))
+* # MMEND1 -     Murderer Ending      - "Intermission from Doom" by Bobby Prince (DOOM)
+* # MMEND2 -     Civilian Ending      - "Unreleased Track #39" by Bobby Prince (DOOM (Unreleased Music))
+ # MMEND3 -      Murderous Sheriff Ending      - "Gaster's Theme" by Toby Fox (Undertale)
+* # MMEND4 -     Murderous Hero Ending       - "Opening To Hell" by Bobby Prince (DOOM II)
