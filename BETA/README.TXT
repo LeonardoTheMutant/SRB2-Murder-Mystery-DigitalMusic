@@ -35,6 +35,7 @@ MAPKD: "East City"
 
     MMSHDA - "Boss" by Barry Blum (Sonic Spinball (Genesis))
   # MMSHDB - "Anything But Tangerines" by Tommy Tallarico (Earthworm Jim 2 (Genesis))
+* # MMSHDC - "Duel Time" by Dr. Quack (LTM's (SRB2) Murder Mystery v7.0-BETA)
 
 
 ================
