@@ -30,8 +30,8 @@ Each music pack folder will also contain its own README file and the list of tra
 
 | Name | Description | Author(s) | Folder | Size | Complete? |
 | --- | --- | --- | --- | --- | --- |
-| **General Murder Music** | A mixture of the digitalized MIDI tracks and the original digital versions of the songs in high quality. | @LeonardoTheMutant | [GMM](./GMM/) | 318 MB | ***Yes*** |
-| **The Murderer's CD** | A remake of the "General Murder Music" pack aiming to be more compact in size | MinusMario (@mm8573) | [TMCD](./TMCD/) | 45.6 MB | ***Yes*** |
-| **Yamaha's Mysterious Music 2612** | Digitalized MIDI soundtrack using FM samples taken from Sonic 1, 2, 3&K and 3D Blast | @Lamonite | [YMM2612](./YMM2612/) | 243 MB | Lacks the Intermission themes |
-| **Square Saw a Triangle Knife Noise** | A chiptune variation of the soundtrack based on PSG chips like NES APU, Commodore SID and others<br>**This pack is not recommended for sensitive users as it might cause headaches** | MinusMario (@mm8573), @LeonardoTheMutant | [SSATKN](./SSATKN/) | 48.8 MB | ***Yes*** |
-| **Abandoned Music** | An alternative soundtrack that replaces some of the tracks with unused & scrapped music from older versions of LTM's MM. There are also MIDI versions of the tracks available in this pack | @LeonardoTheMutant  |[BETA](./BETA/) | 46.8 MB | ***Partially, replaces some tracks*** |
+| **General Murder Music** | A mixture of the digitalized MIDI tracks and the original digital versions of the songs in high quality. | @LeonardoTheMutant | [GMM](./GMM/) | 317 MB | ***Yes*** |
+| **The Murderer's CD** | A remake of the "General Murder Music" pack aiming to be more compact in size | MinusMario (@mm8573) | [TMCD](./TMCD/) | 53.0 MB | ***Yes*** |
+| **Yamaha's Mysterious Music 2612** | Digitalized MIDI soundtrack using FM samples taken from Sonic 1, 2, 3&K and 3D Blast | @Lamonite | [YMM2612](./YMM2612/) | 105 MB | ***Yes*** |
+| **Square Saw a Triangle Knife Noise** | A chiptune variation of the soundtrack based on PSG chips like NES APU, Commodore SID and others<br>**This pack is not recommended for sensitive users as it might cause headaches** | MinusMario (@mm8573), @LeonardoTheMutant | [SSATKN](./SSATKN/) | 45.2 MB | ***Yes*** |
+| **Abandoned Music** | An alternative soundtrack that replaces some of the tracks with unused & scrapped music from older versions of LTM's MM. There are also MIDI versions of the tracks available in this pack | @LeonardoTheMutant  |[BETA](./BETA/) | 51.8 MB | ***Partially, replaces some tracks*** |

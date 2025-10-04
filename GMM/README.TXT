@@ -102,3 +102,4 @@ MAPKD: "East City"
 * 11H_SP - "I Can't Find a [hiding] Place Without Seeing Mr. Death" by MinusMario
 * CIVINS - "Civilian's Instinct" by MinusMario
 * MMSUS0 - "A Thrilling Theme ~ Suspense" by Toshihiko Horiyama (Apollo Justice: Ace Attorney)
+* MMSUS1 - "HOLD ON" by Lamonite

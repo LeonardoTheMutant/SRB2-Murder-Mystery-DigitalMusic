@@ -34,6 +34,7 @@ MAPKD: "East City"
 ============
 
     MMSHDA - "Boss" by Barry Blum (Sonic Spinball (Genesis))
+* # MMSHDC - "Duel Time" by Mr. Quack
   # MMSHDB - "Anything But Tangerines" by Tommy Tallarico (Earthworm Jim 2 (Genesis))
   # MMSHDD - "Stage 13 (Dr. Robotnik)" by Masayuki Nagao (Dr. Robotnik's Mean Bean Machine (Genesis))
   # MMSHDE - "Ruby Illusions" by Tee Lopes (Sonic Mania)
